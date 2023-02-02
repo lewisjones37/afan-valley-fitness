@@ -40,6 +40,7 @@
     background-color: slategray;
     background-image: url("../assets/images/hero-image.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
     padding-top: 200px;
     padding-bottom: 200px;
 }
