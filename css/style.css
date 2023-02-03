@@ -51,6 +51,16 @@
     color: white;
 }
 
+/*-----Hero-Section--------------------------*/
+
+/*-----Main body--------------------------*/
+.main-body {
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+/*-----Main body--------------------------*/
+
 .normal-font {
     font-size: large;
 }
@@ -63,3 +73,9 @@
 .test-div {
     Height: 100px;
 }
+
+/*-----Footer--------------------------*/
+.footer {
+    background-color: slategray;
+}
+/*-----Footer--------------------------*/
