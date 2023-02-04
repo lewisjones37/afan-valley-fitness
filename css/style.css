@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 /*-----NavBar--------------------------*/
 .navbar {
     font-family: 'Roboto', sans-serif, ;
-    background-color: grey;
+    background-color: #fafafa;
     text-transform: uppercase;
 }
 
@@ -26,7 +27,7 @@
     transform: scaleX(0);
     transform-origin: right;
     transition: transform 250ms ease-in;
-    color: rgb(247, 247, 247);
+    color: #339adf;
 }
 
 .nav-bar-button:hover::after {
@@ -109,6 +110,53 @@
 
 /*-----Footer--------------------------*/
 .footer {
-    background-color: slategray;
+    background-color: #fafafa;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
 }
+
+.cv-pdf i {
+    font-size: 18px;
+    color: #fafafafa;
+    text-align: center;
+    padding-left: 5px;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.cv-pdf i:hover {
+    color: df#339adf ;
+}
+
+.social links {
+    padding: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background-color: #339adf;
+}
+
+#footer-details {
+    padding: 20px;
+}
+
 /*-----Footer--------------------------*/
