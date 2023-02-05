@@ -85,12 +85,42 @@
     color: white;
 }
 
-/*-----Hero-Section--------------------------*/
+/*-----Headings--------------------------*/
 
+.heading-text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 130%;
+    color: white;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    
+}
+/*-----OUR STORY--------------------------*/    
+.our-story {
+    background-color: slategray;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.opening-times {
+    background-color: rgba (0,0,0, .6);
+    width: 19%;
+    height: 300px;
+    float: left;
+
+}
+.our-location {
+    background-color: rgba (0, 0, 0, .6);
+    width: 19%;
+    height: 300px;
+    float: left;
+}
 /*-----Main body--------------------------*/
 .main-body {
-    padding-top: 500px;
-    padding-bottom: 500px;
+
 }
 
 /*-----Main body--------------------------*/
@@ -114,6 +144,10 @@
     color: #fafafa;
     min-height: 120px;
     margin: 0;
+}
+
+.socials {
+    padding-left: 15px;
 }
 
 .cv-pdf i {
