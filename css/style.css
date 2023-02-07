@@ -43,9 +43,6 @@
   }
 
 
-/*-----NavBar--------------------------*/
-
-
 /*-----Hero-Section--------------------------*/
 
 .hero-image {
@@ -105,39 +102,51 @@
     padding-right: 75px;
 }
 
-.opening-times {
-    background-color: rgba (0,0,0, .6);
-    width: 19%;
-    height: 300px;
-    float: left;
-
-}
-.our-location {
-    background-color: rgba (0, 0, 0, .6);
-    width: 19%;
-    height: 300px;
-    float: left;
-}
 /*-----Main body--------------------------*/
-.main-body {
-
-}
-
-/*-----Main body--------------------------*/
-
-.normal-font {
-    font-size: large;
-}
 
 .roboto-font {
     font-size: medium;
     font-family: 'Roboto', sans-serif;
 }
 
-.test-div {
-    Height: 100px;
+.homepage-body {
+        display: inline-block;
+        width: 50%;
+        vertical-align: top;
+        height: 500px;
+        padding-top: 20px;
+        padding-bottom: 20px;
 }
 
+.opening-times {
+    background-color: rgba (0,0,0, .6);
+    height: 300px;
+    float: left;
+
+}
+
+.opening-times h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 130%;
+    color: black;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    padding-top: 100px;
+}
+.our-location {
+    background-color: rgba (0, 0, 0, .6);
+    height: 300px;
+    float: left;
+}
+
+.our-location h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 130%;
+    color: black;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    padding-top: 100px;
+}
 /*-----Footer--------------------------*/
 .footer {
     background-color: #fafafa;
@@ -193,4 +202,24 @@
     padding: 20px;
 }
 
-/*-----Footer--------------------------*/
+/*-----Facilities Page--------------------------*/
+
+.facility-hero-image {
+    background-color: slategray;
+    background-image: url("../assets/images/pitch-small.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    position: relative;
+}
+.facility-heading {
+    font-family: 'Roboto', sans-serif;
+    font-size: 130%;
+    color: black;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    position: relative;
+    
+
+}
