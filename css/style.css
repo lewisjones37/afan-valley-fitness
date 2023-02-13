@@ -143,6 +143,19 @@
     letter-spacing: 4px;
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 650px) {
+    .our-location {
+        width: 100%;
+        display: block;
+    }
+    .opening-times{
+        width: 100%;
+        display: block;
+    }
+}
+
+
 /*-----Footer--------------------------*/
 .footer {
     background-color: #fafafa;
