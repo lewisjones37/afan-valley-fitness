@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 /*-----NavBar--------------------------*/
 .navbar {
-    font-family: 'Roboto', sans-serif, ;
-    background-color: white;
+    font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
 }
 
@@ -12,7 +11,7 @@
 
 .navbar-brand img {
     height: 50px;
-
+    padding-top: 15px;
 }
 
 
