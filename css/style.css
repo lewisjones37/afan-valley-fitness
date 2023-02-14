@@ -284,18 +284,14 @@
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     font-size: 60%;
+    color: #fdfdfd;
 }
 
 
 .bottom-img {
     width:100%;
+    margin: 0%;
 }
-
-
-
-
-
-
 
 
 
@@ -306,6 +302,12 @@
     padding: 0 8px;
 }
 
+
+
+
+
+
+
 @media screen and (max-width: 650px) {
     .staff-member {
         width: 100%;
@@ -313,9 +315,7 @@
     }
 }
 
-.card{
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-}
+
 
 .container {
     padding: 0 16px;
