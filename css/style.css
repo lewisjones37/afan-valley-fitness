@@ -2,13 +2,19 @@
 /*-----NavBar--------------------------*/
 .navbar {
     font-family: 'Roboto', sans-serif, ;
-    background-color: #fafafa;
+    background-color: white;
     text-transform: uppercase;
 }
 
 .navbar-brand {
     padding-left: 15px;
 }
+
+.navbar-brand img {
+    height: 50px;
+
+}
+
 
 .nav-bar-button {
     text-decoration: none;
