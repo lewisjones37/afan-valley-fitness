@@ -111,7 +111,7 @@
 .our-story-para {
     color: white;
     margin: auto;
-    width: 50%;
+    width: 90%;
 }
 
 /*-----Main body--------------------------*/
@@ -141,7 +141,6 @@
 
 .our-location {
     background-color: #339adf;
-    height: 300px;
     float: left;
     color: white;
 }
