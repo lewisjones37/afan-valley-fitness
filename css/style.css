@@ -3,6 +3,8 @@
 .navbar {
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
+    background-color: white;
+    
 }
 
 .navbar-brand {
@@ -245,6 +247,16 @@
     padding-top: 5%;
 }
 
+.staff-title {
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 1oopx;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bottom-img {
+    width:100%;
+}
 
 
 
