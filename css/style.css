@@ -55,7 +55,7 @@
 
 .hero-image {
     background-color: slategray;
-    background-image: url("../assets/images/hero-image.jpg");
+    background-image: url("../assets/images/hero-image-light.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 200px;
@@ -94,7 +94,7 @@
 .heading-text {
     font-family: 'Roboto', sans-serif;
     font-size: 130%;
-    color: white;
+    color: black;
     letter-spacing: 4px;
     text-transform: uppercase;
     
@@ -110,6 +110,8 @@
 }
 .our-story-para {
     color: white;
+    margin: auto;
+    width: 50%;
 }
 
 /*-----Main body--------------------------*/
@@ -125,6 +127,8 @@
 
 .opening-times {
     float: left;
+    background-color: #339adf;
+    color: white;
 }
 
 .opening-times h3 {
@@ -136,9 +140,10 @@
 }
 
 .our-location {
-    background-color: rgba (0, 0, 0, .6);
+    background-color: #339adf;
     height: 300px;
     float: left;
+    color: white;
 }
 
 .our-location h3 {
