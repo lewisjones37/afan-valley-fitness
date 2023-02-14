@@ -266,7 +266,7 @@
     margin-top: 100px;
     margin: auto;
     width: 50%;
-    padding-top: 180px;
+    padding-top: 115px;
     text-align: center;
 }
 
@@ -309,6 +309,12 @@
     margin: auto;
     width: 50%;
     text-align: center;
+}
+
+.staff-quote {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color:rgba(122, 122, 122, 0.7)
 }
 
 
