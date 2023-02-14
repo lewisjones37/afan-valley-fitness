@@ -336,3 +336,13 @@
     padding: 0 16px;
 }
 
+
+
+/*-----Book facilities --------------------------*/
+
+.form-group {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    margin: auto;
+    width: 50%;
+}
