@@ -241,18 +241,51 @@
   }
   
 /*-----Meet the staff--------------------------*/
+
+@media screen and (max-width: 650px) {
+    .heading-text-staff{
+        width: 100%;
+        display: block;
+    }
+    .heading-text-staff-two{
+        width: 100%;
+        display: block;
+    }
+}
+
 #banner {
-    background-image: linear-gradient(to right, #339adf,#339aff);
+    background-image: linear-gradient(to right, #339adf,#0580ad);
     color: white;
     padding-top: 5%;
+    font-family: 'Roboto', sans-serif;
 }
 
 .staff-title {
     font-size: 40px;
     font-weight: 400;
-    margin-top: 1oopx;
-    font-family: 'Roboto', sans-serif;
+    margin-top: 100px;
+    margin: auto;
+    width: 50%;
+    padding-top: 180px;
+    text-align: center;
 }
+
+.heading-text-staff {
+    font-family: 'Roboto', sans-serif;
+    font-size: 130%;
+    font-weight: 500;
+    color: white;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    
+}
+
+.staff-text{
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    font-size: 60%;
+}
+
 
 .bottom-img {
     width:100%;
