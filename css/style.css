@@ -239,6 +239,20 @@
   }
   
 /*-----Meet the staff--------------------------*/
+#banner {
+    background-image: linear-gradient(to right, #339adf,#339aff);
+    color: white;
+    padding-top: 5%;
+}
+
+
+
+
+
+
+
+
+
 
 .staff-member {
     float: left;
