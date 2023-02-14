@@ -101,7 +101,6 @@
 }
 /*-----OUR STORY--------------------------*/    
 .our-story {
-    background-color: #339adf;
     font-family: 'Roboto', sans-serif;
     padding-top: 100px;
     padding-bottom: 100px;
@@ -116,7 +115,16 @@
 
 /*-----Main body--------------------------*/
 
+#index-body {
+    /*background-image: url(../assets/images/body-back-darker.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;*/
 
+    background-color: #339adf ;
+    
+}
 
 .homepage-body {
         display: inline-block;
@@ -127,7 +135,7 @@
 
 .opening-times {
     float: left;
-    background-color: #339adf;
+   
     color: white;
 }
 
@@ -140,7 +148,7 @@
 }
 
 .our-location {
-    background-color: #339adf;
+    
     float: left;
     color: white;
 }
