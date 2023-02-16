@@ -2,6 +2,30 @@
 
 A responsive website showcases Afan Valley Fitness' excerice facilities 
 
+## Table of Contents
+
+- [User Experience](#user-experience)
+  - [Initial Discussion](#initial-discussion)
+  - [User Stories](#user-stories)
+- [Design](#design)
+  - [Colour Scheme](#colour-scheme)
+  - [Typography](#typography)
+  - [Imagery](#imagery)
+  - [Wireframes](#wireframes)
+- [Features](#features)
+  - [General](#general)
+  - [Future Implementations](#future-implementations)
+  - [Accessibility](#accessibility)
+- [Technologies Used](#technologies-used)
+- [Deployment & Local Development](#deployment--local-development)
+  - [Deployment](#deployment)
+  - [Local Development](#local-development)
+- [Testing](#testing)
+  - [Automated Testing](#automated-testing)
+  - [Manual Testing](#manual-testing)
+- [Credits](#credits)
+
+
 ## User Experience
 
 ### Initial Discussion
