@@ -41,7 +41,7 @@ This project gives a local gym a platform on the internet. The gym has a goal of
 - See all the facilities and euiptment availble.
 - Get to know the staff.
 
-### Returning Visitor
+#### Returning Visitor
 - Easily see changes in opening times.
 - Easy way to contact or connect to gym's social media.
 
