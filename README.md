@@ -6,7 +6,7 @@ A brief description of the project goes here.
 
 ### Initial Discussion
 
-A brief overview of the initial discussion about the user experience goes here.
+This project gives a local gym a platform on the internet. The gym has a goal of genrating more interest and income, and a website is an essential tool that can make that happen. This will give the gym more exposure to as it can be accessed on mobile devices, tablets, laptops and computers. The goals from the offset are to look profesional, have all key information that can be easily visible on the website, showcase all the facilities. And make sure the gym is easily contactable and loacatable 
 
 ### User Stories
 
