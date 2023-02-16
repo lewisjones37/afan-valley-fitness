@@ -145,6 +145,10 @@
     text-transform: uppercase;
 }
 
+.day-black {
+    color: black;
+}
+
 .our-location {
     float: left;
     color: white;
@@ -237,7 +241,7 @@
     .gallery-hero p {
         font-family: 'Roboto', sans-serif;
     }
-    
+
     *{
         margin: 0;
         padding: 0;
