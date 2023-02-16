@@ -117,11 +117,12 @@
 /*-----Main body--------------------------*/
 
 #index-body {
-    /*background-image: url(../assets/images/body-back-darker.png);
+  /*  background-image: url(../assets/images/pattern.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
-    width: 100%;*/
+    width: 100%;
+    background-blend-mode: darken;*/
     background-color: #339adf ;
 }
 
