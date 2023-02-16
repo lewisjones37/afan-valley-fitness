@@ -34,9 +34,16 @@ This project gives a local gym a platform on the internet. The gym has a goal of
 
 ### User Stories
 
-- User story 1
-- User story 2
-- User story 3
+#### Client goals and first-time visitors
+- To get all relevant information about Afan Valley Fitness.
+- Book inductions through call back form, contact number, email or contact via social media.
+- Adopt the look of a modern social friendly gym through graphic design.
+- See all the facilities and euiptment availble.
+- Get to know the staff.
+
+### Returning Visitor
+- Easily see changes in opening times.
+- Easy way to contact or connect to gym's social media.
 
 ## Design
 
