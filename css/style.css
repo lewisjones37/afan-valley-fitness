@@ -394,3 +394,30 @@
     .sign-up-icon {
         padding-left: 5px;
     }
+    
+    .button-position{
+       margin: auto;
+       width: 50%;
+        
+    }
+
+    
+
+
+
+
+    @media screen and (max-width: 650px) {
+        .card-registration .select-input.form-control {
+            width: 100%;
+            display: block;
+        }
+        .card-registration .select-arrow {
+            width: 100%;
+            display: block;
+        }
+        .sign-up-form-title {
+            width: 100%;
+            display: block;
+        }
+
+    }
