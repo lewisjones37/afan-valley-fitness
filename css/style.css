@@ -217,6 +217,8 @@
     background-color: #339adf;
 }
 
+
+
 /*-----Facilities Page--------------------------*/
 
 .facility-hero-image {
@@ -378,6 +380,8 @@
     top: 13px;
     }
 
+    
+
     .sign-up-form-title {
         margin: auto;
         width: 50%;
@@ -389,6 +393,13 @@
         padding-top: 50px;
         padding-bottom: 25px;
 
+    }
+
+    .form-style {
+        font-family: 'Roboto', sans-serif;
+        text-transform: uppercase;
+        font-weight: 300;
+        text-align: center;
     }
 
     .sign-up-icon {
