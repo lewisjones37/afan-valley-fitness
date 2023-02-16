@@ -46,6 +46,7 @@ This project gives a local gym a platform on the internet. The gym has a goal of
 - Easy way to contact or connect to gym's social media.
 
 ## Design
+- The website is a multiple page design and seperates all key information into seperate pages. The aesthetics of the Website are minimalistic, It utilises a hero image on the home page and gives the Website a welcoming feeling. The website uses simple forms to make the user experience as starightforward as possible.
 
 ### Colour Scheme
 
