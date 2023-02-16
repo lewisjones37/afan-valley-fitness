@@ -1,6 +1,6 @@
-# Project Name
+# Afan Valley Fitness
 
-A brief description of the project goes here.
+A responsive website showcases Afan Valley Fitness' excerice facilities 
 
 ## User Experience
 
