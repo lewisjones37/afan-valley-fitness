@@ -276,7 +276,9 @@
     @media screen and (max-width: 650px) {
         .gallery-logo {
             max-width: 50%;
-    
+        }
+        .gallery-hero {
+            height: 350px;
         }
     }
     /*--Gallery--*/
