@@ -231,6 +231,10 @@
 
 /*--Gallery--*/
     
+    .gallery-logo {
+        max-width: 10%;
+        
+    }
 
     .gallery-hero h1 {
         font-family: 'Roboto', sans-serif;
@@ -267,6 +271,13 @@
 
     .gallery img {
         width: 100%;
+    }
+
+    @media screen and (max-width: 650px) {
+        .gallery-logo {
+            max-width: 50%;
+    
+        }
     }
     /*--Gallery--*/
 
