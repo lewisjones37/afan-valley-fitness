@@ -427,12 +427,6 @@
 }
 
 
-.form-group {
-    font-family: 'Roboto', sans-serif;
-    text-transform: uppercase;
-    margin: auto;
-    width: 50%;
-}
 
 /*-------------Tets form----------------*/
 * {
@@ -459,7 +453,7 @@
     
 }
 
-.input-group {
+.input-group-booking {
     margin-bottom: 30px;
     position: relative;
 }
