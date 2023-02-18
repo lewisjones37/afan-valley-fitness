@@ -300,16 +300,18 @@
 
 @media screen and (max-width: 650px) {
     .heading-text-staff{
+        margin-top: -80px;
         width: 100%;
         display: block;
     }
-    .heading-text-staff-two{
+    .heading-text-staff-two {
         width: 100%;
         display: block;
     }
     .staff-title {
         height: 75vh;
     }
+   
 }
 
 #banner {
