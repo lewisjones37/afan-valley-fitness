@@ -537,7 +537,7 @@ textarea:valid~label
     }
 
     .sign-up-form-title p {
-        margin-bottom: 200px;
+        margin-bottom: 0;
     }
 
     .form-logo {
@@ -582,5 +582,12 @@ textarea:valid~label
             width: 100%;
             display: block;
         }
-
+        .sign-up-form-title h1 {
+            margin-top: 100px;
+        }
+    
+        .sign-up-form-title p {
+            margin-bottom: 200px;
+        }
+    
     }
