@@ -491,6 +491,10 @@ button {
     width: 100%;
     cursor: pointer;
 }
+
+.form-icon {
+    padding-right: 5px;
+}
 /*-------------Test form----------------*/
 
 
