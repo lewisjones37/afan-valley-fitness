@@ -445,9 +445,32 @@
 .form-hero {
     width: 100%;
     height: 100vh;
-    background-image: url(../assets/images/astro-pic.jpg); /*can you add linear gradient*/
+    background-image: linear-gradient(rgba(0,0,0,0.7), #339adf), url(../assets/images/astro-pic.jpg); 
     background-position: center;
     background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.new-form {
+    width: 90%;
+    max-width: 600px;
+    
+}
+
+.input-group {
+    margin-bottom: 30px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    outline: 0;
+    border: 1px solid #fff;
+    color: #fff;
+    background: transparent;
+    font-size: 15px;
 }
 /*-------------Test form----------------*/
 
