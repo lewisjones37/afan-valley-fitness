@@ -169,6 +169,10 @@
 
 .day-black {
     color: black;
+    font-size: 130%;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-weight: 500;
 }
 
 .our-location {
