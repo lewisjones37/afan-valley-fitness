@@ -481,6 +481,7 @@ label {
     padding: 10px;
     color: #fff;
     cursor: text;
+    transition: 0.2s;
 }
 button {
     padding: 10px 0;
@@ -494,6 +495,15 @@ button {
 
 .form-icon {
     padding-right: 5px;
+}
+
+input:focus~label,
+input:valid~label,
+textarea:focus~label,
+textarea:valid~label
+{
+    top: -35px;
+    font-size: 14px;
 }
 /*-------------Test form----------------*/
 
