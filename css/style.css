@@ -56,6 +56,7 @@
     height: 90vh;
     width: 100%;
     overflow: hidden;
+    position: relative;
 }
 
 .hero-image {
@@ -108,7 +109,29 @@
     color: white;
 }
 
+#conver-text, #cover-text p {
+    color: white;
+}
 
+#cover-text {
+    font-size: 130%;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(122, 122, 122, 0.7);
+
+    bottom: 30px;
+    left: 150px;
+
+    position: absolute;
+
+}
 /*-----Headings--------------------------*/
 
 .heading-text {
@@ -447,12 +470,13 @@
     text-transform: uppercase;
     margin: auto;
     width: 50%;
-    margin-bottom: 110px;
+    margin-bottom: 350px;
 }
 
 
 
-/*-------------Tets form----------------*/
+
+/*-------------booking form----------------*/
 * {
     margin: 0;
     padding: 0;
@@ -523,7 +547,27 @@ textarea:valid~label
     top: -35px;
     font-size: 14px;
 }
-/*-------------Test form----------------*/
+
+@media screen and (max-width: 650px) {
+
+    .booking-title {
+        margin: auto;
+        width: 90%;
+        letter-spacing: 2px;
+    }
+
+    .booking-title-text {
+        margin: auto;
+        width: 90%;
+        margin-top: 20px;
+        margin-bottom: 350px;
+    }
+
+    .booking-logo {
+        max-width: 50%;
+        margin-top: 50px;
+}
+}
 
 
 /*-------------Sign up page----------------*/
