@@ -400,6 +400,12 @@
 
 
 /*-----Book facilities --------------------------*/
+
+.booking-logo {
+        max-width: 20%;
+        margin-top: 50px;
+}
+
 .booking-title{
         font-family: 'Roboto', sans-serif; 
         text-transform: uppercase;
