@@ -419,9 +419,11 @@
 }
 
 .booking-title-text {
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
     margin: auto;
     width: 50%;
-    margin-bottom: 50px;
+    margin-bottom: 110px;
 }
 
 .form-group {
