@@ -519,8 +519,6 @@ textarea:valid~label
     top: 13px;
     }
 
-    
-
     .sign-up-form-title {
         margin: auto;
         width: 50%;
@@ -533,7 +531,12 @@ textarea:valid~label
         padding-bottom: 25px;
 
     }
+    .form-logo {
+        margin-left: 37.5%;
+        margin-bottom: 50px;
+        max-width: 20%;
 
+    }
     .form-style {
         font-family: 'Roboto', sans-serif;
         text-transform: uppercase;
@@ -546,9 +549,10 @@ textarea:valid~label
     }
     
     .button-position{
-       margin: auto;
-       width: 50%;
-        
+        margin: auto;
+        width: 50%;
+        margin-left: 37.5%;
+         
     }
 
     
