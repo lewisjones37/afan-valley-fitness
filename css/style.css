@@ -287,14 +287,13 @@
         font-family: 'Roboto', sans-serif;
         text-transform: uppercase;
         letter-spacing: 4px;
-    }
-
-    .display-5 {
         margin-top: -47.5px;
     }
 
     .gallery-hero p {
         font-family: 'Roboto', sans-serif;
+        text-transform: uppercase;
+        color: black;
     }
 
     *{
