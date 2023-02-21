@@ -429,6 +429,26 @@
 }
 
 
+  .staff-image-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .staff-image-container img {
+    width: 320px;
+    height:320px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    border: 4px solid white;
+    
+    margin: 10px;
+  }
+  
+  
+
+
+
 
 
 
@@ -442,10 +462,6 @@
 }
 
 
-
-.container {
-    padding: 0 16px;
-}
 
 
 
