@@ -423,10 +423,20 @@
   .description h2 {
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
+    padding-top: 5px;
   }
 
   .text-muted {
     padding: 5px 5px 5px 5px;
+  }
+
+  .card {
+    margin-top: 20px;
+    margin-bottom: 25px;
+  }
+
+  .shadow {
+    color: #339adf;
   }
   
   
@@ -464,6 +474,8 @@
     margin: auto;
     width: 90%;
   }
+
+  
 
 }
 
