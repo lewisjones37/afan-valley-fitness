@@ -410,6 +410,10 @@
     border: 10px solid #339adf;
     margin: 10px;
   }
+
+  .staff-photo {
+    padding: 5px 5px 5px 5px;
+  }
   
   
   .description{
@@ -420,10 +424,12 @@
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
   }
-  
-  .description h2 {
-    margin: 0;
+
+  .text-muted {
+    padding: 5px 5px 5px 5px;
   }
+  
+  
  
 @media screen and (max-width: 650px) {
     .heading-text-staff{
@@ -453,8 +459,13 @@
     height: 300px;
     margin: 10px 0;
   }
-      
-      }
+
+  .description{
+    margin: auto;
+    width: 90%;
+  }
+
+}
 
 
 
