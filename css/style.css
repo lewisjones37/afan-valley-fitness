@@ -431,20 +431,19 @@
 
   .staff-image-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    align-items: center;
   }
   
   .staff-image-container img {
-    width: 320px;
-    height:320px;
+    width: 420px;
+    height:420px;
     border-radius: 50%;
     object-fit: cover;
     object-position: center;
     border: 4px solid white;
-    
     margin: 10px;
   }
-
 
 @media screen and (max-width: 650px) {
     .staff-member {
