@@ -433,10 +433,11 @@
   .card {
     margin-top: 20px;
     margin-bottom: 25px;
+    background-color: #fafafa
   }
 
   .shadow {
-    color: #339adf;
+    color: rgb(77, 76, 76)
   }
   
   
