@@ -444,14 +444,6 @@
     
     margin: 10px;
   }
-  
-  
-
-
-
-
-
-
 
 
 @media screen and (max-width: 650px) {
@@ -459,6 +451,19 @@
         width: 100%;
         display: block;
     }
+
+    .staff-image-container {
+        width: 80%;
+        display: block;
+        align-items: center;
+        
+    }
+
+    .staff-image-container img {
+        margin: 0;
+    }
+
+
 }
 
 
