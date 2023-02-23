@@ -685,3 +685,38 @@ textarea:valid~label
         }
     
     }
+
+    /*------404 page------*/
+    .container-fluid {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .error-image {
+        text-align: center;
+        margin-top: 100px;
+      }
+      
+      .error-image img {
+        max-width: 27.5%;
+        height: auto;
+      }
+      
+
+    .error-page-body {
+        text-align: center;
+        color: #fafafa;
+        background-color: #339adf;
+        font-family: 'Roboto', sans-serif;
+        height: 40vh;
+        
+    }
+
+    .error-page-body h1 {
+        text-transform: uppercase;
+    }
+
+    .error-page-body p {
+        font-size: 130%;
+    }
