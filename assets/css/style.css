@@ -720,3 +720,8 @@ textarea:valid~label
     .error-page-body p {
         font-size: 130%;
     }
+
+    .error-button {
+        width: 20%;
+        height: 20%;
+    }
