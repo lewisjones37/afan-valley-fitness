@@ -706,10 +706,10 @@ textarea:valid~label
 
     .error-page-body {
         text-align: center;
-        color: #fafafa;
+        color: white;
         background-color: #339adf;
         font-family: 'Roboto', sans-serif;
-        height: 40vh;
+        height: 46vh;
         
     }
 
@@ -725,3 +725,5 @@ textarea:valid~label
         width: 20%;
         height: 20%;
     }
+
+   
