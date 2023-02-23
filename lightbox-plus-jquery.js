@@ -1,3 +1,7 @@
+/* content sourced from easy tutorials youtube videp https://www.youtube.com/watch?v=4gcy-qT9kGw */
+
+
+
 /*!
  * jQuery JavaScript Library v3.4.1
  * https://jquery.com/
