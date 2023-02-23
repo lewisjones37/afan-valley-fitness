@@ -61,7 +61,7 @@
 
 .hero-image {
     background-color: slategray;
-    background-image: url("../images/hero-image-light.jpg");
+    background-image: url("../images/gym_woodenfloor.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 200px;
@@ -525,7 +525,7 @@
 .form-hero {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.7), #339adf), url(../images/astro-pic.jpg); 
+    background-image: linear-gradient(rgba(0,0,0,0.7), #339adf), url(../images/two_footballers.jpg); 
     background-position: center;
     background-size: cover;
     display: flex;
