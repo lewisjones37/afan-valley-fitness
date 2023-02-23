@@ -715,6 +715,7 @@ textarea:valid~label
 
     .error-page-body h1 {
         text-transform: uppercase;
+        padding-top: 20px;
     }
 
     .error-page-body p {
