@@ -687,7 +687,7 @@ textarea:valid~label
     }
 
     /*------404 page------*/
-    .container-fluid {
+    .error-continer {
         display: flex;
         justify-content: center;
         align-items: center;
