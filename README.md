@@ -97,7 +97,15 @@ A list of wireframes, showing the layout and design of the project, goes here.
 
 ## Features
 
-### General
+### Logo and Navigation Bar 
+- Featured on all five pages
+- The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes links to the Homepage, About page, Menu page, Gallery and Contact us page
+- It allows users to easily navigate the page.
+- When the mouse is hovering a line appears underneath and dissapeares when gone.
+- Clicking gyms logo navigates back to home page.
+
+![Image of Nav Bar](docs/navbar.jpg)
+
 
 A list of the features implemented in the project goes here.
 
