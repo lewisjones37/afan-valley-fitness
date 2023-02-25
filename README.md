@@ -93,6 +93,8 @@ COMPLETE WHEN GALLERY IS DONE
 
 A list of wireframes, showing the layout and design of the project, goes here.
 
+###
+
 ## Features
 
 ### General
@@ -109,7 +111,17 @@ A description of the efforts made to ensure the project is accessible to all use
 
 ## Technologies Used
 
-A list of the technologies used in the project goes here.
+### Lanuages 
+- HTML 
+- CSS
+
+### Frameworks & Tools
+- Bootstrap v5.3.0
+- GitHub
+- Gitpod
+- Google Fonts
+- Font Awesome 
+- Easy Tutorials 
 
 ## Deployment & Local Development
 
