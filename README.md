@@ -58,11 +58,14 @@ This project gives a local gym a platform on the internet. The gym has a goal of
 
 ### Colour Scheme
 
-A description of the colour scheme used in the project goes here.
+I chose a blue color scheme for this gym website as requested by the Gym as it matches the company logo and the general theme inside the actual gym. I also beleives it conveys a sense of trust, reliability, and calmness. Blue is often associated with stability and dependability, which are important qualities for a gym to convey to potential customers. Using different shades of blue adds depth and variety to the color palette, while still maintaining a cohesive look. The light background, mostly white, creates a clean and airy feel that is both visually appealing and easy to read. Overall, this color scheme helps create a sense of professionalism and competence, which can encourage potential customers to trust the gym and take action towards their fitness goals.
+IMAGE HERE OF COLOR PALLETE
 
-### Typography
+### Fonts
 
-A description of the typography used in the project goes here.
+I chose to use the Roboto font from Google Fonts for my website for several reasons. Firstly, its clean and modern design gives my site a professional and polished look, which is important for creating a positive user experience. Additionally, its well-defined letterforms and balanced proportions make it easy to read, ensuring that my content is accessible to my audience. Finally, the wide range of font weights and styles offered by Roboto allows me to customize my typography to suit my site's needs, giving me more flexibility in creating a unique and cohesive visual identity. Overall, I believe that Roboto is an excellent choice for anyone looking for a stylish, readable, and versatile font for their website.
+
+
 
 ### Imagery
 
