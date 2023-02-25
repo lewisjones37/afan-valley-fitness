@@ -66,10 +66,28 @@ IMAGE HERE OF COLOR PALLETE
 I chose to use the Roboto font from Google Fonts for my website for several reasons. Firstly, its clean and modern design gives my site a professional and polished look, which is important for creating a positive user experience. Additionally, its well-defined letterforms and balanced proportions make it easy to read, ensuring that my content is accessible to my audience. Finally, the wide range of font weights and styles offered by Roboto allows me to customize my typography to suit my site's needs, giving me more flexibility in creating a unique and cohesive visual identity. Overall, I believe that Roboto is an excellent choice for anyone looking for a stylish, readable, and versatile font for their website.
 
 
+### Structure 
+
+The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the gym logo on the left side and the navigation links to the right. The website consists of five separate pages:
+
+A homepage with a sections for our story, open times and location.
+An gallery page with images of the facilities.
+A meet the staff page, with images and a quote from staff members.
+A sign up page with a form for a call to book an induction as requested by the gym.
+A booking facilites page with a differently desgined form to book facilities.
 
 ### Imagery
 
-A description of the imagery used in the project goes here.
+- Hero Image 
+A light hero image of fitness activty highlights the modern style of the gym.
+
+- Staff Images 
+Using images of staff on the website can make the gym staff feel more approachable and welcoming, as it gives users a sense of the people behind the project. It can also help to reduce the stress or anxiety that readers may feel when signing up, as they are more likely to feel like they are interacting with real people rather than a faceless entity.
+
+- Background image of booking facitlity page.
+using an image of people participating in sports gives a more professional sense. GIving customers peiece of mind when booking and paying for faciltites 
+
+COMPLETE WHEN GALLERY IS DONE
 
 ### Wireframes
 
