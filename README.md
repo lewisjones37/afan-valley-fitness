@@ -98,6 +98,7 @@ A list of wireframes, showing the layout and design of the project, goes here.
 ## Features
 
 ### Logo and Navigation Bar 
+
 - Featured on all five pages
 - The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes links to the Homepage, About page, Menu page, Gallery and Contact us page
 - It allows users to easily navigate the page.
@@ -106,8 +107,119 @@ A list of wireframes, showing the layout and design of the project, goes here.
 
 ![Image of Nav Bar](docs/navbar.jpg)
 
+### Homepage Hero image  
 
-A list of the features implemented in the project goes here.
+- Zooms in on entry of page.
+- Intorduces user to page with instant impression of health and fitness.
+
+![Image of Hero image on homepage](docs/homepage-hero.jpg)
+
+### Our Story 
+
+- Gives the user history of the gym. 
+
+![Image of our story section of homepage](docs/our-story-homepage.jpg)
+
+### Opening Times  
+
+- Gives the user knowledge of opening times through the week
+
+![Image of opening times](docs/opening-times.jpg)
+
+### Location  
+
+- Shows a Google map location of gym.
+- GIves end user a thorough explanation of the location of the gym using one image.
+- Interactive, gives the user ability to zoom in and out.
+
+![Image of Google map giving location.](docs/location.jpg)
+
+### Footer 
+
+- Has links to both social media acconts of the gym.
+- WHen hovered over, both links turn blue colour to match the style of the website.
+
+![Image of footer](docs/footer.jpg)
+
+### Gallery Hero
+
+- Logo as focal point of page.
+- Aligns with minimilstic aesthetics of website 
+- informative message below logo.
+
+![Image of Gallery Hero](docs/gallery-hero.jpg)
+
+### Gallery Grid Display
+
+- Showcases all images in a grid before selecting one to zoom in.
+- SHows customer range of equiptment. 
+- Simple and easy to see what's on offer.
+
+![Image of Gallery Grid display of images](docs/gallery-grid.jpg)
+
+### Gallery selected image
+
+- Zooms in and gives full view of image.
+- Easy transition in and out of selected image.
+- Gives description bottom left hand corner of the image.
+
+![Image of Gallery selected image.](docs/selected-image.jpg)
+
+### Meet our Staff Hero
+
+- Variantion in styling to differ from other pages.
+- Consistent in colour.
+- Bold heading with icon to draw user attention.
+
+![Image of meet our staff page.](docs/meet-our-staff-hero.jpg)
+
+### Meet our Staff images
+
+- Individual images of staff.
+- In a circle border to vary styling of website.
+
+![Image of meet our staff images.](docs/staff-images.jpg)
+
+### Staff profiles
+
+- Provides profile of staff.
+- Makes staff who haven't signed up yet a bit more familiar to the staff.
+
+![Image of meet our staff profiles.](docs/staff-profiles.jpg)
+
+### Sign up heading
+
+- Different background color to vary style of website.
+- Bold title to let users know what page they are using and page purpose.
+
+![Image of sign up heading page.](docs/sign-up-heading.jpg)
+
+### Sign up Form
+
+- Gym logo at the top center to give professional look.
+- Has only the necessary information on the form to avoid over complication for the user.
+
+![Image of sign up form.](docs/signup-form.jpg)
+
+### Booking page heading
+
+- Consistent in the style of the website.
+- Followes style of Gallery heading to maintain aesthetic.
+
+![Image of sign up form.](docs/facilities-heading.jpg)
+
+### Booking Form
+
+- Adds a different style to bottom of the page to add varation.
+- Background image of two people in action using facilities.
+- Only requires necessary information from user to book facilities.
+- Color gradient on image consistent with color pallete of website.
+
+![Image of booking form.](docs/booking-form.jpg)
+
+
+
+
 
 ### Future Implementations
 
