@@ -9,11 +9,9 @@ A responsive website showcases Afan Valley Fitness' excerice facilities
   - [User Stories](#user-stories)
 - [Design](#design)
   - [Colour Scheme](#colour-scheme)
-  - [Typography](#typography)
   - [Imagery](#imagery)
   - [Wireframes](#wireframes)
 - [Features](#features)
-  - [General](#general)
   - [Future Implementations](#future-implementations)
   - [Accessibility](#accessibility)
 - [Technologies Used](#technologies-used)
@@ -109,7 +107,7 @@ COMPLETE WHEN GALLERY IS DONE
 <img src="docs/signup-wireframe.jpg">
 </details>
 <details><summary>Book our Facilities</summary>
-<img src="docs/wireframes/wireframes-contact.png">
+<img src="docs/booking-wireframe.jpg">
 </details>
 
 ###
