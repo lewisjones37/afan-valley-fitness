@@ -1,4 +1,5 @@
 # Afan Valley Fitness
+![Image of Nav Bar](docs/logo-600-50.jpg)
 
 A responsive website showcases Afan Valley Fitness' excerice facilities 
 
@@ -89,8 +90,6 @@ IMAGE HERE OF COLOR PALLETE
 
 #### Background image of booking facitlity page.
 - using an image of people participating in sports gives a more professional sense. GIving customers peiece of mind when booking and paying for faciltites 
-
-COMPLETE WHEN GALLERY IS DONE
 
 ### Wireframes
 

@@ -132,6 +132,8 @@
     position: absolute;
 
 }
+
+
 /*-----Headings--------------------------*/
 
 .heading-text {
@@ -155,6 +157,12 @@
     color: black;
     margin: auto;
     width: 90%;
+}
+@media screen and (max-width: 650px) {
+   .hero-text {
+    width: 100%;
+    display: block;
+   }
 }
 
 /*-----Main body--------------------------*/
