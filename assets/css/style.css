@@ -691,10 +691,10 @@ textarea:valid~label
 
     @media screen and (max-width: 650px) {
         .sign-up-form-title {
-            margin-bottom: 320px;
+            margin-bottom: 45px;
         }
         .sign-up-form-title {
-            width: 90%;
+            width: 1000%;
             display: block;
         }
     
