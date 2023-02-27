@@ -240,8 +240,7 @@ COMPLETE WHEN GALLERY IS DONE
 
 ### Future Implementations
 
-A list of future features and improvements that could be made to the project goes here.
-
+- As I gain more skills I would like to add a member portal in future updates
 ### Accessibility
 
 A description of the efforts made to ensure the project is accessible to all users goes here.
