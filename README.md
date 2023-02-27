@@ -63,6 +63,11 @@ IMAGE HERE OF COLOR PALLETE
 
 ### Fonts
 
+![Image of Nav Bar](docs/google-font1.jpg)
+
+![Image of Nav Bar](docs/google-font.jpg)
+
+
  - I chose to use the Roboto font from Google Fonts for my website for several reasons. Firstly, its clean and modern design gives my site a professional and polished look, which is important for creating a positive user experience. Additionally, its well-defined letterforms and balanced proportions make it easy to read, ensuring that my content is accessible to my audience. Finally, the wide range of font weights and styles offered by Roboto allows me to customize my typography to suit my site's needs, giving me more flexibility in creating a unique and cohesive visual identity. Overall, I believe that Roboto is an excellent choice for anyone looking for a stylish, readable, and versatile font for their website.
 
 
@@ -91,7 +96,21 @@ COMPLETE WHEN GALLERY IS DONE
 
 ### Wireframes
 
-A list of wireframes, showing the layout and design of the project, goes here.
+<details><summary>Home</summary>
+<img src="docs/homepage-wireframe.jpg">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/gallery-wireframe.jpg">
+</details>
+<details><summary>Meet the Staff</summary>
+<img src="docs/meet-the-staff-wireframe.jpg">
+</details>
+<details><summary>Sign Up</summary>
+<img src="docs/signup-wireframe.jpg">
+</details>
+<details><summary>Book our Facilities</summary>
+<img src="docs/wireframes/wireframes-contact.png">
+</details>
 
 ###
 
