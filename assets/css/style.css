@@ -463,7 +463,8 @@
     }
 
     .staff-title {
-        height: 75vh;
+        height: 60vh;
+        width: 100%;
     }
 
     .staff-image-container {
@@ -488,7 +489,7 @@
     margin: auto;
     width: 90%;
   }
-
+  
   
 
 }
