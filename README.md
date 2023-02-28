@@ -421,6 +421,22 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 ### Code Validation
 
+<details><summary>Home</summary>
+<img src="">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/facilities-validation.jpg">
+</details>
+<details><summary>Meet the Staff</summary>
+<img src="docs/staff-validation.jpg">
+</details>
+<details><summary>Sign Up</summary>
+<img src="docs/sign-up-validation.jpg">
+</details>
+<details><summary>Book our Facilities</summary>
+<img src="docs/book-validation.jpg">
+</details>
+
 - HTML 
 
 1. Hompage
