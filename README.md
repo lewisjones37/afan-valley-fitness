@@ -294,6 +294,17 @@ Instructions for setting up and running the project locally go here.
 
 ## Testing
 
+#### Responsiveness
+
+- The Website is fully on responsive on mobile and tablet.
+- I have used screenshot's of Chrome developer tools using iPhone 5 & iPad Air below to evidence. 
+
+#### Iphone 5
+
+![Image of booking form.](docs/booking-form.jpg)
+
+ 
+
 ### Automated Testing
 
 A description of the automated testing process for the project goes here.
