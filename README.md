@@ -35,6 +35,9 @@ A responsive website showcases Afan Valley Fitness' excerice facilities
 
 This project gives a local gym a platform on the internet. The gym has a goal of genrating more interest and income, and a website is an essential tool that can make that happen. This will give the gym more exposure to as it can be accessed on mobile devices, tablets, laptops and computers. The goals from the offset are to look profesional, have all key information that can be easily visible on the website, showcase all the facilities. And make sure the gym is easily contactable and loacatable 
 
+### Target Audience 
+- The main audience for a gym would be individuals who are interested in improving their physical fitness and overall health. This can include people of all ages, genders, and fitness levels, from beginners to experienced athletes.
+
 ### User Stories
 - As a user, I want to be able to simply navigate the page.
 - As a user, I want to be able to read and understand the topic of the website.
