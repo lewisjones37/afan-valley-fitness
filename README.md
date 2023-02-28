@@ -379,8 +379,7 @@ IMAGE HERE OF COLOR PALLETE
 |------------|------------|
 | I want to be able to navigate the page |User can easily navigate using Navigation bar at the top of the screen|
 | I want to sign up for the gym. | User can navigate to sign up page. User can complete sign up form and submit.|
-| I want to be able to have an overview of the facilities and staff | User can navigate to facilities page and view images. User can navigate to staff page and view staff images and description.
- |
+| I want to be able to have an overview of the facilities and staff | User can navigate to facilities page and view images. User can navigate to staff page and view staff images and description.|
 |I want to be able to find the gym| User can navigate to home page and view the google map.|
 | I want to be able to follow the gym on social media | User can scroll to bottom of any page and click link which open a new tab and take user to the social media pages.  |
 
