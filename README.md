@@ -288,9 +288,6 @@ A description of the efforts made to ensure the project is accessible to all use
 6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY).
 7. Press Enter to create your local clone.
 
-### Local Development
-
-Instructions for setting up and running the project locally go here.
 
 ## Testing
 
