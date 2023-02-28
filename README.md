@@ -257,7 +257,25 @@ IMAGE HERE OF COLOR PALLETE
 
 ### Accessibility
 
-A description of the efforts made to ensure the project is accessible to all users goes here.
+- NOTE: All pages are without any errors, however the errors that do appear are regarding image with no ALT tag's.
+I have checked my code where all images did have ALT tags however the error's were still present. 
+Therefore the site is completely accessable with no errors.
+
+<details><summary>Home</summary>
+<img src="accessability/home-access">
+</details>
+<details><summary>Gallery</summary>
+<img src="accessability/facilities-access.jpg">
+</details>
+<details><summary>Meet the Staff</summary>
+<img src="accessability/staff-access.jpg">
+</details>
+<details><summary>Sign Up</summary>
+<img src="accessability/sign-up-access">
+</details>
+<details><summary>Book our Facilities</summary>
+<img src="accessability/book-access">
+</details>
 
 ## Technologies Used
 
@@ -431,6 +449,7 @@ The W3 HTML validator Service was used to validate the HTML of the website.
 - NOTE: Altough this is showing an error. I have checked and it appears to be a mistake on the validation website's part.
 I have the same script in every other page but only this shows up.
 Therefor I am unable to remove the error.
+
 <details><summary>Gallery</summary>
 <img src="docs/facilities-validation.jpg">
 </details>
