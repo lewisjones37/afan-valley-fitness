@@ -154,9 +154,13 @@
     background-color: #fafafa;
 }
 .our-story-para {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
     color: black;
     margin: auto;
-    width: 90%;
+    width: 100%;
+    letter-spacing: 1px;
+    margin-top: 20px;
 }
 @media screen and (max-width: 650px) {
    .hero-text {
