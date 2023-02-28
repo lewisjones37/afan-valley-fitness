@@ -376,20 +376,27 @@ Instructions for setting up and running the project locally go here.
 
 | Browser | Version | Compatibility |
 |---------|---------|---------------|
-| Chrome  | latest  | Good          |
-| Edge    | latest  | Good          |
-| Firefox | latest  | Good          |
+| Chrome  | latest  | Images not loading      |
+| Edge    | latest  | Images not loading     |
+| Firefox | latest  | Images not loading         |
 
 - Note: "latest" refers to the most recent version available at the time of writing.
- 
 
-### Automated Testing
 
-A description of the automated testing process for the project goes here.
+### Bugs 
 
-### Manual Testing
+- Problem
+1. The toggle bar would not open in smaller devices.
+2. User could not toggle through website at ease.
 
-A description of the manual testing process for the project goes here.
+- Solution
+1. Researched bootstrap.
+2. Realised I was not putting in script on all pages.
+
+### Lighthouse
+
+![Image of Homepage on iPhone 5](docs/lighthouse.jpg)
+
 
 ## Credits
 
