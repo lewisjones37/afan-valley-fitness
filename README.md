@@ -299,9 +299,11 @@ Instructions for setting up and running the project locally go here.
 - The Website is fully on responsive on mobile and tablet.
 - I have used screenshot's of Chrome developer tools using iPhone 5 & iPad Air below to evidence. 
 
-#### Iphone 5
+#### iPhone 5
 
 - Homepage 
+
+
 
 
 ![Image of Homepage on iPhone 5](docs/iphone-5/iphone-5-hompeage.jpg)
@@ -338,6 +340,47 @@ Instructions for setting up and running the project locally go here.
 
 ![Image of booking form.](docs/iphone-5/iphone-5-booking-form.jpg)
 
+
+#### iPad Air
+
+- Homepage 
+
+![Image of Homepage on iPhone 5](docs/ipad/ipad-homepage.jpg)
+
+![Image of Homepage on iPhone 5](docs/ipad/ipad-opening-location.jpg)
+
+- Gallery 
+
+![Image of Homepage on iPhone 5](docs/ipad/ipad-gallery.jpg)
+
+![Image of Homepage on iPhone 5](docs/ipad/ipad-gallery-image.jpg)
+
+- Meet the Staff 
+
+![Image of Homepage on iPhone 5](docs/ipad/ipad-staff-heading.jpg)
+
+![Image of Homepage on iPhone 5](docs/ipad/ipad-staff-pics.jpg)
+
+- Sign up 
+
+![Image of Homepage on iPhone 5](docs/ipad/ipad-sign-up.jpg)
+
+- Book our Facilities 
+
+![Image of Homepage on iPhone 5](docs/ipad/ipad-book-our-facilities-heading.jpg)
+
+![Image of Homepage on iPhone 5](docs/ipad/ipad-book-our-facilities-form.jpg)
+
+
+### Browser Compatibility 
+
+| Browser | Version | Compatibility |
+|---------|---------|---------------|
+| Chrome  | latest  | Good          |
+| Edge    | latest  | Good          |
+| Firefox | latest  | Good          |
+
+- Note: "latest" refers to the most recent version available at the time of writing.
  
 
 ### Automated Testing
