@@ -167,6 +167,13 @@
     width: 100%;
     display: block;
    }
+   .our-story {
+    width: 100%;
+   }
+   .our-story-para {
+    width: 100%;
+    display: block;
+   }
 }
 
 /*-----Main body--------------------------*/
@@ -436,6 +443,7 @@
   
   .description{
     text-align: center;
+    width: 90%;
   }
 
   .description h2 {
@@ -492,6 +500,10 @@
 
   .description{
     margin: auto;
+    width: 90%;
+  }
+
+  .text-muted {
     width: 90%;
   }
   
