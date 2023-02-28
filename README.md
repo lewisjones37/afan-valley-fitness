@@ -262,7 +262,7 @@ I have checked my code where all images did have ALT tags however the error's we
 Therefore the site is completely accessable with no errors.
 
 <details><summary>Home</summary>
-<img src="docs/accessability/home-access">
+<img src="docs/accessability/home-access.jpg">
 </details>
 <details><summary>Gallery</summary>
 <img src="docs/accessability/facilities-access.jpg">
@@ -271,10 +271,10 @@ Therefore the site is completely accessable with no errors.
 <img src="docs/accessability/staff-access.jpg">
 </details>
 <details><summary>Sign Up</summary>
-<img src="docs/accessability/sign-up-access">
+<img src="docs/accessability/sign-up-access.jpg">
 </details>
 <details><summary>Book our Facilities</summary>
-<img src="docs/accessability/book-access">
+<img src="docs/accessability/book-access.jpg">
 </details>
 
 ## Technologies Used
