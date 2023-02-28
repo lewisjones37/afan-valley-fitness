@@ -3,7 +3,7 @@
 
 You can find the live link here: [Afan Valley Fitness](https://lewisjones37.github.io/afan-valley-fitness/)
 
-A responsive website showcases Afan Valley Fitness' excerice facilities 
+A responsive website showcasing Afan Valley Fitness' excerice facilities 
 
 ## Table of Contents
 
@@ -77,7 +77,6 @@ This project gives a local gym a platform on the internet. The gym has a goal of
 ### Colour Scheme
 
 - I chose a blue color scheme for this gym website as requested by the Gym as it matches the company logo and the general theme inside the actual gym. I also beleives it conveys a sense of trust, reliability, and calmness. Blue is often associated with stability and dependability, which are important qualities for a gym to convey to potential customers. Using different shades of blue adds depth and variety to the color palette, while still maintaining a cohesive look. The light background, mostly white, creates a clean and airy feel that is both visually appealing and easy to read. Overall, this color scheme helps create a sense of professionalism and competence, which can encourage potential customers to trust the gym and take action towards their fitness goals.
-IMAGE HERE OF COLOR PALLETE
 
 ### Fonts
 
@@ -491,4 +490,9 @@ Therefore the site is completely accessable with no errors.
 
 ## Credits
 
-A list of the people and resources used to create the project goes here.
+I would like to take the time to thank:
+- My mentor Mo Shami for his advice and guidance.
+- The slack community for providing around the clock support.
+- My cohort lead Iris for providing guidance and support.
+- Afan Valley gym for giving me the opportunity to create this website
+- My girlfriend Emily Edwards for supporting and motivating me.
