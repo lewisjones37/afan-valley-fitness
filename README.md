@@ -18,7 +18,6 @@ A responsive website showcases Afan Valley Fitness' excerice facilities
   - [Wireframes](#wireframes)
 - [Features](#features)
   - [Future Implementations](#future-implementations)
-  - [Accessibility](#accessibility)
 - [Technologies Used](#technologies-used)
 - [Frameworks & Tools](#frameworks--tools)
 - [Deployment](#deployment)
@@ -26,6 +25,7 @@ A responsive website showcases Afan Valley Fitness' excerice facilities
 - [Testing](#testing)
   - [Automated Testing](#automated-testing)
   - [Manual Testing](#manual-testing)
+  - [Accessibility](#accessibility)
 - [Credits](#credits)
 
 
@@ -255,28 +255,6 @@ IMAGE HERE OF COLOR PALLETE
 
 - As I gain more skills I would like to add a member portal in future updates
 
-### Accessibility
-
-- NOTE: All pages are without any errors, however the errors that do appear are regarding image with no ALT tag's.
-I have checked my code where all images did have ALT tags however the error's were still present. 
-Therefore the site is completely accessable with no errors.
-
-<details><summary>Home</summary>
-<img src="docs/accessability/home-access.jpg">
-</details>
-<details><summary>Gallery</summary>
-<img src="docs/accessability/facilities-access.jpg">
-</details>
-<details><summary>Meet the Staff</summary>
-<img src="docs/accessability/staff-access.jpg">
-</details>
-<details><summary>Sign Up</summary>
-<img src="docs/accessability/sign-up-access.jpg">
-</details>
-<details><summary>Book our Facilities</summary>
-<img src="docs/accessability/book-access.jpg">
-</details>
-
 ## Technologies Used
 
 ### Lanuages 
@@ -469,6 +447,28 @@ The W3C Jigsaw CSS Validation Service was used to validate the CSS of the websit
 
 <details><summary>CSS</summary>
 <img src="docs/css-validation.jpg">
+</details>
+
+### Accessibility
+
+- NOTE: All pages are without any errors, however the errors that do appear are regarding image with no ALT tag's.
+I have checked my code where all images did have ALT tags however the error's were still present. 
+Therefore the site is completely accessable with no errors.
+
+<details><summary>Home</summary>
+<img src="docs/accessability/home-access.jpg">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/accessability/facilities-access.jpg">
+</details>
+<details><summary>Meet the Staff</summary>
+<img src="docs/accessability/staff-access.jpg">
+</details>
+<details><summary>Sign Up</summary>
+<img src="docs/accessability/sign-up-access.jpg">
+</details>
+<details><summary>Book our Facilities</summary>
+<img src="docs/accessability/book-access.jpg">
 </details>
 
 ## Credits
