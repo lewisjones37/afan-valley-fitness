@@ -36,6 +36,13 @@ A responsive website showcases Afan Valley Fitness' excerice facilities
 This project gives a local gym a platform on the internet. The gym has a goal of genrating more interest and income, and a website is an essential tool that can make that happen. This will give the gym more exposure to as it can be accessed on mobile devices, tablets, laptops and computers. The goals from the offset are to look profesional, have all key information that can be easily visible on the website, showcase all the facilities. And make sure the gym is easily contactable and loacatable 
 
 ### User Stories
+- As a user, I want to be able to simply navigate the page.
+- As a user, I want to be able to read and understand the topic of the website.
+- As a user, I want to be able to understand the offering.
+- As a user, I want to be able to sign up to the gym.
+- As a user, I want to be able to have an overview of the facilities and staff.
+- As a user, I want to be able to find the gym
+- As a user, I want to be able to follow the gym on social media
 
 #### Client goals 
 - To provide basic information about Afan Valley FItness
