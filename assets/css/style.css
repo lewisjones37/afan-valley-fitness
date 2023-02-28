@@ -23,6 +23,11 @@
     position: relative;
 }
 
+.navbar-nav a{
+    color: black;
+    text-decoration: none;
+}
+
 .nav-bar-button::after {
     content: "";
     position: absolute;
