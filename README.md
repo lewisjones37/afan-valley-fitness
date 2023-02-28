@@ -21,7 +21,6 @@ A responsive website showcases Afan Valley Fitness' excerice facilities
 - [Frameworks & Tools](#frameworks--tools)
 - [Deployment & Local Development](#deployment--local-development)
   - [Deployment](#deployment)
-  - [Local Development](#local-development)
 - [Testing](#testing)
   - [Automated Testing](#automated-testing)
   - [Manual Testing](#manual-testing)
@@ -262,9 +261,7 @@ A description of the efforts made to ensure the project is accessible to all use
 - Font Awesome 
 - Easy Tutorials 
 
-## Deployment & Local Development
-
-### Deployment
+## Deployment
 
 #### Deploying the Website with GitHub Pages
 
