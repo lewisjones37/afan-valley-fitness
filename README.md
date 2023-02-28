@@ -154,7 +154,7 @@ This project gives a local gym a platform on the internet. The gym has a goal of
 1. In the GitHub repository navigate to the Settings tab.
 2. On the left-hand menu select Pages.
 3. For the source select Branch: master.
-4. After the webpage refreshes automatically, you will see a ribbon on the top saying: "Your site is published at INSERT LINK HERE
+4. After the webpage refreshes automatically, you will see a ribbon on the top saying: "Your site is published at https://lewisjones37.github.io/afan-valley-fitness/"
 
 
 - You can fork the repository by following these steps:
@@ -442,7 +442,8 @@ The website has no errors.
 </details>
 - NOTE: Altough this is showing an error. I have checked and it appears to be a mistake on the validation website's part.
 I have the same script in every other page but only this shows up.
-Therefor I am unable to remove the error.
+I am unable to remove the error.
+
 
 <details><summary>Gallery</summary>
 <img src="docs/facilities-validation.jpg">
@@ -470,7 +471,7 @@ The website has no errors.
 
 - NOTE: All pages are without any errors, however the errors that do appear are regarding image with no ALT tag's.
 I have checked my code where all images did have ALT tags however the error's were still present. 
-Therefore the site is completely accessable with no errors.
+Therefore the site is completely accessable with no errors. This is an accessabiltiy page error.
 
 <details><summary>Home</summary>
 <img src="docs/accessability/home-access.jpg">
