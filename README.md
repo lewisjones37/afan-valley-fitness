@@ -419,6 +419,20 @@ Instructions for setting up and running the project locally go here.
 
 ![Image of Homepage on iPhone 5](docs/book-validation.jpg)
 
+- CSS
+
+- The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
+
+1. Whole Page 
+
+![Image of Homepage on iPhone 5](docs/css-whole-page-validation.jpg)
+
+2. style.css
+
+![Image of Homepage on iPhone 5](docs/css-validation.jpg)
+
+
+
 ## Credits
 
 A list of the people and resources used to create the project goes here.
