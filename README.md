@@ -426,7 +426,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 The W3 HTML validator Service was used to validate the HTML of the website.
 
 <details><summary>Home</summary>
-<img src="docs/home-validation">
+<img src="docs/home-validation.jpg">
 </details>
 - NOTE: Altough this is showing an error. I have checked and it appears to be a mistake on the validation website's part.
 I have the same script in every other page but only this shows up.
