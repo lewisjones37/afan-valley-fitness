@@ -1,3 +1,4 @@
+![Image of Nav Bar](docs/amiresponsive.jpg)
 # Afan Valley Fitness
 ![Image of Nav Bar](docs/logo-600-50.jpg)
 
@@ -299,9 +300,6 @@ A description of the efforts made to ensure the project is accessible to all use
 #### iPhone 5
 
 - Homepage 
-
-
-
 
 ![Image of Homepage on iPhone 5](docs/iphone-5/iphone-5-hompeage.jpg)
 
