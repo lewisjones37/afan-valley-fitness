@@ -9,7 +9,9 @@ A responsive website showcases Afan Valley Fitness' excerice facilities
 
 - [User Experience](#user-experience)
   - [Initial Discussion](#initial-discussion)
+  - [Target Audience](#target-audience)
   - [User Stories](#user-stories)
+  - [Client Goals](#client-goals)
 - [Design](#design)
   - [Colour Scheme](#colour-scheme)
   - [Fonts](#fonts)
@@ -19,12 +21,15 @@ A responsive website showcases Afan Valley Fitness' excerice facilities
 - [Features](#features)
   - [Future Implementations](#future-implementations)
 - [Technologies Used](#technologies-used)
-- [Frameworks & Tools](#frameworks--tools)
+  - [Frameworks & Tools](#frameworks--tools)
 - [Deployment](#deployment)
-  - [Deployment](#deployment)
 - [Testing](#testing)
-  - [Automated Testing](#automated-testing)
-  - [Manual Testing](#manual-testing)
+  - [Responsiveness](#responsiveness)
+  - [User Story Testing](#user-story-testing)
+  - [Browser Compatibility](#browser-compatibility)
+  - [Bugs](#bugs)
+  - [Performance](#performance)
+  - [Code Validation](#code-validation)
   - [Accessibility](#accessibility)
 - [Credits](#credits)
 
@@ -427,9 +432,10 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 ### Code Validation
 
-- HTML
+#### HTML
 
-The W3 HTML validator Service was used to validate the HTML of the website.
+The W3 HTML validator Service was used to validate the HTML of the website. 
+The website has no errors.
 
 <details><summary>Home</summary>
 <img src="docs/home-validation.jpg">
@@ -451,9 +457,10 @@ Therefor I am unable to remove the error.
 <img src="docs/book-validation.jpg">
 </details>
 
-- CSS
+#### CSS
 
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. 
+The website has no errors.
 
 <details><summary>CSS</summary>
 <img src="docs/css-validation.jpg">
