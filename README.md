@@ -385,7 +385,7 @@ IMAGE HERE OF COLOR PALLETE
 ![Image of Homepage on iPhone 5](docs/ipad/ipad-book-our-facilities-form.jpg)
 
 
-### Feature Testing
+## Feature Testing
 
 ### Logo and Navigation Bar 
 
