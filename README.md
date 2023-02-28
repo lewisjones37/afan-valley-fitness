@@ -18,6 +18,7 @@ A responsive website showcases Afan Valley Fitness' excerice facilities
   - [Future Implementations](#future-implementations)
   - [Accessibility](#accessibility)
 - [Technologies Used](#technologies-used)
+- [Frameworks & Tools](#frameworks--tools)
 - [Deployment & Local Development](#deployment--local-development)
   - [Deployment](#deployment)
   - [Local Development](#local-development)
@@ -253,7 +254,7 @@ A description of the efforts made to ensure the project is accessible to all use
 - HTML 
 - CSS
 
-### Frameworks & Tools
+## Frameworks & Tools
 - Bootstrap v5.3.0
 - GitHub
 - Gitpod
