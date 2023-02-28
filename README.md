@@ -397,6 +397,21 @@ Instructions for setting up and running the project locally go here.
 
 ![Image of Homepage on iPhone 5](docs/lighthouse.jpg)
 
+### Code Validation
+
+- HTML 
+
+- Hompage
+
+- Gallery
+
+
+- Meet the Staff 
+
+- Sign up 
+
+- Book Our Facilities 
+
 
 ## Credits
 
