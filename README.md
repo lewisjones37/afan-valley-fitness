@@ -172,7 +172,8 @@ IMAGE HERE OF COLOR PALLETE
 ### Footer 
 
 - Has links to both social media acconts of the gym.
-- WHen hovered over, both links turn blue colour to match the style of the website.
+- When hovered over, both links turn blue colour to match the style of the website.
+- When clicked both lead to correct social media pages.
 
 ![Image of footer](docs/footer.jpg)
 
@@ -187,14 +188,14 @@ IMAGE HERE OF COLOR PALLETE
 ### Gallery Grid Display
 
 - Showcases all images in a grid before selecting one to zoom in.
-- SHows customer range of equiptment. 
+- Shows customer range of equiptment. 
 - Simple and easy to see what's on offer.
 
 ![Image of Gallery Grid display of images](docs/gallery-grid.jpg)
 
 ### Gallery selected image
 
-- Zooms in and gives full view of image.
+- Once selected zooms in and gives full view of image.
 - Easy transition in and out of selected image.
 - Gives description bottom left hand corner of the image.
 
@@ -233,6 +234,8 @@ IMAGE HERE OF COLOR PALLETE
 
 - Gym logo at the top center to give professional look.
 - Has only the necessary information on the form to avoid over complication for the user.
+- All fields allow user to type.
+- Submit button is clickable.
 
 ![Image of sign up form.](docs/signup-form.jpg)
 
@@ -249,6 +252,9 @@ IMAGE HERE OF COLOR PALLETE
 - Background image of two people in action using facilities.
 - Only requires necessary information from user to book facilities.
 - Color gradient on image consistent with color pallete of website.
+- All fields allow user to type.
+- Submit button works.
+- Once user selects field, placeholder text moves above field box as expected.
 
 ![Image of booking form.](docs/booking-form.jpg)
 
@@ -387,6 +393,98 @@ IMAGE HERE OF COLOR PALLETE
 | I want to be able to have an overview of the facilities and staff | User can navigate to facilities page and view images. User can navigate to staff page and view staff images and description.|
 |I want to be able to find the gym| User can navigate to home page and view the google map.|
 | I want to be able to follow the gym on social media | User can scroll to bottom of any page and click link which open a new tab and take user to the social media pages.  |
+
+
+### Feature Testing
+
+<details>
+  <summary>Logo and Navigation Bar</summary>
+Featured on all five pages
+The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes links to the Homepage, About page, Menu page, Gallery and Contact us page
+It allows users to easily navigate the page.
+When the mouse is hovering a line appears underneath and disappears when gone.
+Clicking gyms logo navigates back to home page.
+Image of Nav Bar
+
+</details>
+<details>
+  <summary>Homepage Hero image</summary>
+Zooms in on entry of page.
+Introduces user to page with instant impression of health and fitness.
+Image of Hero image on homepage
+
+</details>
+<details>
+  <summary>Our Story</summary>
+Gives the user history of the gym.
+Image of our story section of homepage
+
+</details>
+<details>
+  <summary>Opening Times</summary>
+Gives the user knowledge of opening times through the week
+Image of opening times
+
+</details>
+<details>
+  <summary>Location</summary>
+Shows a Google map location of gym.
+Gives end user a thorough explanation of the location of the gym using one image.
+Interactive, gives the user ability to zoom in and out.
+Image of Google map giving location.
+
+</details>
+<details>
+  <summary>Footer</summary>
+Has links to both social media accounts of the gym.
+When hovered over, both links turn blue color to match the style of the website.
+When clicked both lead to correct social media pages.
+Image of footer
+
+</details>
+<details>
+  <summary>Gallery Hero</summary>
+Logo as focal point of page.
+Aligns with minimalistic aesthetics of website
+Informative message below logo.
+Image of Gallery Hero
+
+</details>
+<details>
+  <summary>Gallery Grid Display</summary>
+Showcases all images in a grid before selecting one to zoom in.
+Shows customer range of equipment.
+Simple and easy to see what's on offer.
+Image of Gallery Grid display of images
+
+</details>
+<details>
+  <summary>Gallery selected image</summary>
+Once selected zooms in and gives full view of image.
+Easy transition in and out of selected image.
+Gives description bottom left-hand corner of the image.
+Image of Gallery selected image.
+
+</details>
+<details>
+  <summary>Meet our Staff Hero</summary>
+Variation in styling to differ from other pages.
+Consistent in color.
+Bold heading with icon to draw user attention.
+Image of meet our staff page.
+
+</details>
+<details>
+  <summary>Meet our Staff images</summary>
+Individual images of staff.
+In a circle border to vary styling of website.
+Image of meet our staff images.
+
+</details>
+<details>
+  <summary>Staff profiles</summary>
+Provides profile of staff.
+Makes staff who haven't signed up
 
 
 ### Browser Compatibility 
