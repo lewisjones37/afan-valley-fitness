@@ -393,9 +393,25 @@ Instructions for setting up and running the project locally go here.
 1. Researched bootstrap.
 2. Realised I was not putting in script on all pages.
 
-### Lighthouse
+### Performance
 
-![Image of Homepage on iPhone 5](docs/lighthouse.jpg)
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website.
+
+<details><summary>Home</summary>
+<img src="docs/lighthouse/homepage-lighthouse.jpg">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/lighthouse/gallery-lighthouse.jpg">
+</details>
+<details><summary>Meet the Staff</summary>
+<img src="docs/lighthouse/meet-our-staff-lighthouse.jpg">
+</details>
+<details><summary>Sign Up</summary>
+<img src="docs/lighthouse/sign-up-lighthouse.jpg">
+</details>
+<details><summary>Book our Facilities</summary>
+<img src="docs/lighthouse/booking-lighthouse.jpg">
+</details>
 
 ### Code Validation
 
