@@ -423,11 +423,14 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 - HTML
 
-- The W3 HTML validator Service was used to validate the HTML of the website.
+The W3 HTML validator Service was used to validate the HTML of the website.
 
 <details><summary>Home</summary>
-<img src="">
+<img src="docs/home-validation">
 </details>
+- NOTE: Altough this is showing an error. I have checked and it appears to be a mistake on the validation website's part.
+I have the same script in every other page but only this shows up.
+Therefor I am unable to remove the error.
 <details><summary>Gallery</summary>
 <img src="docs/facilities-validation.jpg">
 </details>
@@ -443,7 +446,7 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 - CSS
 
-- The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. 
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. 
 
 <details><summary>CSS</summary>
 <img src="docs/css-validation.jpg">
