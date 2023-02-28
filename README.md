@@ -421,6 +421,10 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 ### Code Validation
 
+- HTML
+
+- The W3 HTML validator Service was used to validate the HTML of the website.
+
 <details><summary>Home</summary>
 <img src="">
 </details>
@@ -437,39 +441,13 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 <img src="docs/book-validation.jpg">
 </details>
 
-- HTML 
-
-1. Hompage
-
-2. Gallery
-
-![Image of Homepage on iPhone 5](docs/facilities-validation.jpg)
-
-3.  Meet the Staff 
-
-![Image of Homepage on iPhone 5](docs/staff-validation.jpg)
-
-4.  Sign up 
-
-![Image of Homepage on iPhone 5](docs/sign-up-validation.jpg)
-
-5. Book Our Facilities 
-
-![Image of Homepage on iPhone 5](docs/book-validation.jpg)
-
 - CSS
 
-- The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
+- The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. 
 
-1. Whole Page 
-
-![Image of Homepage on iPhone 5](docs/css-whole-page-validation.jpg)
-
-2. style.css
-
-![Image of Homepage on iPhone 5](docs/css-validation.jpg)
-
-
+<details><summary>CSS</summary>
+<img src="docs/css-validation.jpg">
+</details>
 
 ## Credits
 
