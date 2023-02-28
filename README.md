@@ -405,6 +405,8 @@ Instructions for setting up and running the project locally go here.
 
 2. Gallery
 
+![Image of Homepage on iPhone 5](docs/facilities-validation.jpg)
+
 3.  Meet the Staff 
 
 ![Image of Homepage on iPhone 5](docs/staff-validation.jpg)
