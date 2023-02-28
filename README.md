@@ -1,6 +1,7 @@
 ![Image of Nav Bar](docs/amiresponsive.jpg)
 # Afan Valley Fitness
-![Image of Nav Bar](docs/logo-600-50.jpg)
+
+You can find the live link here: [Afan Valley Fitness](https://lewisjones37.github.io/afan-valley-fitness/)
 
 A responsive website showcases Afan Valley Fitness' excerice facilities 
 
