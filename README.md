@@ -376,9 +376,9 @@ Instructions for setting up and running the project locally go here.
 
 | Browser | Version | Compatibility |
 |---------|---------|---------------|
-| Chrome  | latest  | Images not loading      |
-| Edge    | latest  | Images not loading     |
-| Firefox | latest  | Images not loading         |
+| Chrome  | latest  | Good      |
+| Edge    | latest  | Good      |
+| Firefox | latest  | Good      |
 
 - Note: "latest" refers to the most recent version available at the time of writing.
 
@@ -401,17 +401,21 @@ Instructions for setting up and running the project locally go here.
 
 - HTML 
 
-- Hompage
+1. Hompage
 
-- Gallery
+2. Gallery
 
+3.  Meet the Staff 
 
-- Meet the Staff 
+![Image of Homepage on iPhone 5](docs/staff-validation.jpg)
 
-- Sign up 
+4.  Sign up 
 
-- Book Our Facilities 
+![Image of Homepage on iPhone 5](docs/sign-up-validation.jpg)
 
+5. Book Our Facilities 
+
+![Image of Homepage on iPhone 5](docs/book-validation.jpg)
 
 ## Credits
 
